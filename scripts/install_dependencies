@@ -3,4 +3,4 @@ sudo apt-get install python3-venv
 sudo apt-get install python3-pip
 cd ~/cloudnative-ch11-code-deploy/
 source ./venv/bin/activate
-pip install -r requirements.txt
+pip install -r /home/ubuntu/cloudnative-ch11-code-deploy/requirements.txt
