@@ -10,8 +10,8 @@ hooks:
       runas: ubuntu
     - location: scripts/start_server
       timeout: 300
-      runas: ubuntu
+      runas: root
   ApplicationStop:
     - location: scripts/stop_server
       timeout: 300
-      runas: ubuntu
+      runas: root
