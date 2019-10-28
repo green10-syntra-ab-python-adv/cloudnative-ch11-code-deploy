@@ -1,0 +1,2 @@
+sudo supervisorctl stop cloudnative-ch11
+sudo systemctl stop nginx
